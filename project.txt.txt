@@ -1,0 +1,12 @@
+1. npm init -y
+2.npm install / yarn add body-parser cors express mongoose nodemon
+
+3.npm install / yarn add axios moment react-redux redux redux-thunk react-file-base64
+
+
+yarn add @material-ui/core
+yarn add @material-ui/styles
+
+yarn add @material-ui/icons
+
+OMjgmbbbsmnkb@11
